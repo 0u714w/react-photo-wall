@@ -14,14 +14,14 @@ header {
 }
 
 .collage {
-    width: 70vw;
+    width: 60em;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    border: 1px solid black;
+    
 }
 
 img {
-    margin: 2px;
+    margin: 1em;
     
 }
